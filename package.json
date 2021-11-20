@@ -9,7 +9,5 @@
     "start": "react-scripts start",
     "build": "react-scripts build"
   },
-  "development": [
-    "last 1 chrome version"
-  ]
+  "browserslist": {"development": ["last 1 chrome version"]}
 }
