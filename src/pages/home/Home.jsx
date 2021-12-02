@@ -1,5 +1,5 @@
 import "./home.css"
-import Topbar from "../../components/component/Component"
+import Component from "../../components/component/Component"
 
 export default function Home(){
   return(
