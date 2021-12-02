@@ -1,8 +1,7 @@
 import "./home.css"
-import {useState, useRef, useEffect, useContext} from "react"
-import Component from "../../components/component/Component"
+import Topbar from "../../components/component/Component"
 
-export default Home = () => {
+export default function Home(){
   return(
     <div className = "home">
       Home
